@@ -1,0 +1,22 @@
+.Table {
+  display: flex;
+  justify-content: center;
+}
+
+.Table table {
+  border-collapse: collapse;
+  width: 30%;
+}
+
+.Table th {
+  text-align: left;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: blanchedalmond;
+}
+
+.Table td {
+  text-align: left;
+  border: 1px solid black;
+  padding: 10px;
+}
